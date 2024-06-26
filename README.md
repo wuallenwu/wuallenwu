@@ -1,4 +1,5 @@
-## 🐸
+<div style="font-size: 40px;">
+
 ```math
-\mathcal{L}_{\text{cross-entropy}} = -\sum_{i=1}^N y_i \log(\hat{y}_i)
+\Huge \mathcal{L}_{\text{cross-entropy}} = -\sum_{i=1}^N y_i \log(\hat{y}_i)
 ```
